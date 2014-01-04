@@ -1,0 +1,59 @@
+Name,URL,FIPS
+Oakland,https://data.oaklandnet.com,0653000
+Oakland,http://data.openoakland.org,0653000
+Denver,http://data.denvergov.org/,0820000
+Houston,http://data.codeforhouston.com/dataset,4835000
+Texas,http://www.texastransparency.org/Data_Center/,48
+Texas,http://www.texas.gov/en/Connect/Pages/open-data.aspx,48
+Lexington,http://data.lexingtonky.gov/group,5146027
+Virginia,http://datapoint.apa.virginia.gov/,51
+Virginia,http://data.openva.com/dataset,51
+Pueblo County,http://data.opencolorado.org/group/pueblo-county,08101
+Arvada,http://arvada.org/opendata,083455
+Arvada,http://data.opencolorado.org/group/arvada,083455
+Longmont,http://data.opencolorado.org/group/city-of-longmont,0845970
+City and County of Denver,http://data.opencolorado.org/group/denver,08031
+Gilpin County,http://data.opencolorado.org/group/gilpin-county,08047
+Castle Rock,http://data.opencolorado.org/group/castlerock,0812415
+Fort Collins,http://data.opencolorado.org/group/city-of-fort-collins,0827425
+Boulder County,http://data.opencolorado.org/group/boulder-county,08013
+Boulder,http://data.opencolorado.org/group/boulder,0807850
+Colorado,http://www.colorado.gov/data/dataHome.html,08
+District of Columbia,http://data.octo.dc.gov/,11
+District of Columbia,http://opendatadc.org/,11
+San Francisco,https://data.sfgov.org/,0667000
+Santa Cruz,http://data.cityofsantacruz.com/group/city-of-santa-cruz,0669112
+Anne Arbor,http://www.a2gov.org/data/Pages/default.aspx,2603000
+Boston,http://metrobostondatacommon.org/,2507000
+Boston,http://hubmaps1.cityofboston.gov/datahub/,2507000
+Massachusetts,https://wiki.state.ma.us/confluence/display/data/Open+Data+Initiative+Home,25
+California,http://data.ca.gov/,06
+California,http://climate.calcommons.org/lists/datasets,06
+Honolulu,https://can-do.honolulu.gov/,15003
+Chicago,https://data.cityofchicago.org/,1714000
+Illinois,https://data.illinois.gov/,17
+Cook County,https://datacatalog.cookcountyil.gov/,17031
+Portland,http://www.civicapps.org/datasets,4159000
+Oregon,https://data.oregon.gov/,41
+Connecticut,http://transparency.ct.gov/html/downloads.asp,09
+Seattle,https://data.seattle.gov/,5363000
+King County,https://www.datakc.org/,53033
+Washington State,https://data.wa.gov/,53
+Georgia,http://www.open.georgia.gov/,13
+Maine,http://www.maine.gov/cgi-bin/data/index.pl,23
+Missouri,https://data.mo.gov/,29
+Missouri,http://mapyourtaxes.mo.gov/MAP/Reports/,29
+Michigan,"http://www.michigan.gov/som/0,1607,7-192-29938_54272_54378---,00.html",26
+Minnesota,http://www.state.mn.us/opendata/data.html,27
+North Dakota,https://apps.nd.gov/hubdataportal/srv/en/main.home,38
+New York State,https://data.ny.gov/,36
+New York State,http://www.nysenate.gov/opendata,36
+New York City,https://nycopendata.socrata.com/,3651000
+Florida,http://www.floridahasarighttoknow.com/,12
+Oklahoma,https://data.ok.gov/,40
+Tennessee,http://www.tn.gov/opengov/,47
+Baltimore,https://data.baltimorecity.gov/,2404000
+Philadelphia,http://www.opendataphilly.org/opendata/?sort=name&dir=asc,4260000
+Rhode Island,http://www.ri.gov/data/,44
+Nebraska,http://www.nebraska.gov/data.html,31
+Utah,http://www.utah.gov/data/,49
