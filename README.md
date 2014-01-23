@@ -1,15 +1,15 @@
-Data Catalogues
+Data Catalogs
 ===============
 
-This repo contains a JSON file of city, county and state data catalogues. We need help analyzing these data catalogues and adding more data catalogues.
+This repo contains a JSON file of city, county and state data catalogs. We need help analyzing these data catalogs and adding more data catalogs.
 
-### To help analyze a data catalogue already in the JSON file:
+### To help analyze a data catalog already in the JSON file:
 
 Pick an entry in the JSON file.
 Follow the url in an entry and take a look at the data.
 Edit the JSON and add as many of the following fields as possible to the entry, after analyzing the data. All of these fields are optional, but the more included, the better.
 
-    "catalogue-name": <"text">,
+    "catalog-name": <"text">,
     "machine-readable": <true,false>,
     "file-format": <["csv","json","doc"]>,
     "date-last-updated": <"yyyy-mm-dd">,
@@ -32,7 +32,7 @@ After looking at the data we end up with an entry that looks like this:
       "place":"Canada",
       "url":"http://data.gc.ca/data/en/dataset/d666bc4a-d9b0-4b48-84de-dedb963716be",
       "fips-code":"99999999999",
-      "catalogue-name": "Police personnel and selected crime statistics, municipal police services",
+      "catalog-name": "Police personnel and selected crime statistics, municipal police services",
       "machine-readable": "true",
       "file-format": ["csv", "xml"],
       "date-last-updated": "2013-05-29",
@@ -43,7 +43,7 @@ After looking at the data we end up with an entry that looks like this:
 
 Once you have updated entries, submit a pull request.
 
-### To add a data catalogue to the JSON file:
+### To add a data catalog to the JSON file:
 
 Create a new entry in the JSON file with the required fields:
 
